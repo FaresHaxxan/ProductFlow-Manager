@@ -1,2 +1,2 @@
-# ProductFlow-Manager
+# ProductFlow-Manager Application
 "ProductFlow Manager" is an efficient and straightforward product management system designed to organize and manage products effectively. With ProductFlow Manager, you can easily create, update, and delete products, streamlining inventory management and product information. The system includes features such as calculating the total price based on item prices, taxes, advertising costs, and discounts. Additionally, ProductFlow Manager allows for easy product search using available search options. It serves as an ideal tool for efficiently managing products and improving data and update processes.
